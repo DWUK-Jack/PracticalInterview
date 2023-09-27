@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-You are tasked with building a simple CRUD (Create, Read, Update, Delete) application for a bank. You have the freedom to choose a framework for the front-end. Your back-end frameworks should utilise PHP i.e. laravel, symphony, codeigniter. So please use technologies you are comfortable with. The application should have the following features:
+You are tasked with building a simple CRUD (Create, Read, Update, Delete) application for a bank. You have the freedom to choose a framework for the front-end. Your back-end frameworks should utilise PHP i.e. laravel, symfony, codeigniter. So please use technologies you are comfortable with. The application should have the following features:
 
 ## Front-End Requirements
 
